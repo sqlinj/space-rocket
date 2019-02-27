@@ -25,7 +25,8 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-react": "^6.24.1",
     "react": "^16.8.1",
-    "react-dom": "^16.8.1"
+    "react-dom": "^16.8.1",
+    "socket.io-client": "^2.2.0"
   },
   "devDependencies": {
     "@babel/polyfill": "^7.2.5",
